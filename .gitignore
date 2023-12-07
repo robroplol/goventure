@@ -1,0 +1,39 @@
+# Dependency directories
+node_modules/
+
+# Optional: Logs and debugging files
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+.pnpm-debug.yaml
+
+# Optional: Coverage directory
+coverage/
+
+# Optional: .env file (contains environment variables)
+.env
+
+# Optional: OS or Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Optional: Build output
+dist/
+build/
+out/
+
+# Optional: Output of npm pack
+*.tgz
+
+# Optional: Lock files
+package-lock.json
+yarn.lock
+
+# Optional: Configuration file for npm
+.npmrc
+
+# Optional: User-specific files
+.npm/
+.npm-client/
